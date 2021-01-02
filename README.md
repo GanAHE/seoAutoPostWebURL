@@ -13,10 +13,10 @@
 
 ## （1）Bing
 
-![GIF](E:\CodePrograme\Python\seoAutoPostWebURL\README.assets\GIF.gif)
+![GIF](.\README.assets\GIF.gif)
 
 
 
 ## (2)baidu
 
-![image-20210102201043368](E:\CodePrograme\Python\seoAutoPostWebURL\README.assets\image-20210102201043368.png)
+![image-20210102201043368](.\README.assets\image-20210102201043368.png)
