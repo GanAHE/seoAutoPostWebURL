@@ -1,0 +1,21 @@
+{
+ "site1":
+ {
+	"url": "https://dgzc.ganahe.top/",
+	"sitemapLink": "https://dgzc.ganahe.top/post-sitemap.xml",
+   "baiduAPIUrl": "http://data.zz.baidu.com/urls?site=https://dgzc.ganahe.top&token=",
+   "bingAPIUrl": "https://ssl.bing.com/webmaster/api.svc/json/SubmitUrlbatch?apikey=",
+   "360APIUrl": ""
+ },
+  "site2":
+ {
+	"url": "https://www.ganahe.top/",
+	"sitemapLink": "http://www.ganahe.top/baidusitemap.xml",
+   "baiduAPIUrl": "http://data.zz.baidu.com/urls?site=https://www.ganahe.top&token="
+ },
+  "site3":
+ {
+	"url": "",
+	"sitemapLink":""
+ }
+}
